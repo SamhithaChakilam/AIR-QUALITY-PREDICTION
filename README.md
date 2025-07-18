@@ -70,7 +70,7 @@ authors:
   - name: Chakilam Samhitha
     affiliation: SR University
     
-    - name: Paidakula Srikanth
+  - name: Paidakula Srikanth
     affiliation: SR University
 
 
